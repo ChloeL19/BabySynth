@@ -7,7 +7,7 @@ A bottom-up synthesizer for two very small target languages.
 
 The target Arithmetic DSL is a super simple subset of python integer operations, i.e. [ADD, MULTIPLY, DIVIDE]. The DSL contains the following expressions and constants: [x, y, 0, 1, 2, 3].
 
-[Link to TXT FILE with expected results]
+Results are here: https://github.com/ChloeL19/BabySynth/blob/main/integer_samples.txt  
 
 #### Command for Test Case 1:
 `python BabySynthArith.py [1,1,2] [2,3,5] [7,4,11] [-1,1,0]`
@@ -27,7 +27,7 @@ The target Arithmetic DSL is a super simple subset of python integer operations,
 
 The target String DSL is a super simple subset of python string operations, i.e. [CONCAT, REVERSE, TITLE]. The DSL contains the following expressions and constants: [s1, s2, "", "a", "A"].
 
-[Link to TXT FILE with expected results]
+Results are here: https://github.com/ChloeL19/BabySynth/blob/main/string_samples.txt
 
 #### Command for Test Case 1:
 
