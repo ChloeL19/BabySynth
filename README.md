@@ -4,6 +4,8 @@ A bottom-up synthesizer for two very small target languages.
 # Usage
 ## For the Integer DSL
 python BabySynthArith.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]
+
+
 [Link to TXT FILE with expected results]
 
 #### Command for Test Case 1:
