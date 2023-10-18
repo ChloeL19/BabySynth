@@ -1,0 +1,29 @@
+input/output examples:
+1,1 --> 2
+2,3 --> 5
+7,4 --> 11
+-1, 1 --> 0
+arguments: x,y
+solution: x + y
+
+input/output examples:
+2,3 --> 8
+1,2 --> 5
+-1,2 --> 3
+arguments: x,y
+solution: x + y * 2
+
+input/output examples:
+1,1 --> 2
+0,-5 --> 0
+8,10789 --> 16
+arguments: x,y
+solution: x*2
+
+input/output examples:
+arguments:
+solution:
+
+input/output examples:
+arguments:
+solution:
