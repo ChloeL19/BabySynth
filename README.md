@@ -3,7 +3,7 @@ A bottom-up synthesizer for two very small target languages.
 
 # Usage
 ## For the Integer DSL
-python BabySynthArith.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]
+`python BabySynthArith.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]`
 
 The target Arithmetic DSL is a super simple subset of python integer operations, i.e. [ADD, MULTIPLY, DIVIDE]. The DSL contains the following expressions and constants: [x, y, 0, 1, 2, 3].
 
@@ -23,7 +23,7 @@ The target Arithmetic DSL is a super simple subset of python integer operations,
 #### Command for Test Case 5:
 
 ## For the String DSL
-python BabySynthString.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]
+`python BabySynthString.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]`
 
 The target String DSL is a super simple subset of python string operations, i.e. [CONCAT, REVERSE, TITLE]. The DSL contains the following expressions and constants: [s1, s2, "", "a", "A"].
 
