@@ -11,3 +11,10 @@ python BabySynthArith.py [arg1, arg2, expected_answer] [arg1, arg2, expected_ans
 
 #### Command for Test Case 2:
 `python BabySynthArith.py [2,3,8] [1,2,5] [-1,2,3]`
+
+#### Command for Test Case 3:
+`python BabySynthArith.py [1,1,2] [0,-5,0] [8,10789,16]`
+
+#### Command for Test Case 4:
+
+#### Command for Test Case 5:
