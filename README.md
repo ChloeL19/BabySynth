@@ -5,6 +5,7 @@ A bottom-up synthesizer for two very small target languages.
 ## For the Integer DSL
 python BabySynthArith.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]
 
+The Integer DSL is a super simple subset of python integer operations, i.e. [ADD, MULTIPLY, DIVIDE]. The DSL contains the following expressions and constants: [x, y, 0, 1, 2, 3].
 
 [Link to TXT FILE with expected results]
 
