@@ -1,19 +1,34 @@
 input/output examples:
-arguments:
-solution:
+hi -> H 
+bye -> B 
+chloe -> C
+arguments: x
+solution: ((x).title())[0]
 
 input/output examples:
-arguments:
-solution:
+hi -> Hi
+hey -> Hey 
+woo -> Woo
+arguments: x
+solution: (x).title()
 
 input/output examples:
-arguments:
-solution:
+cow, boy --> Cowboy
+big, city --> Bigcity
+hullah, baloo --> Hullahbaloo
+arguments: x,y
+solution: ((x) + (y)).title()
 
 input/output examples:
-arguments:
-solution:
+cow, boy -> c
+big, city -> b 
+hullah, baloo -> h
+arguments: x,y
+solution: (x)[0]
 
 input/output examples:
-arguments:
-solution:
+cow, boy --> CB 
+big, city --> BC 
+hullah, baloo --> HB
+arguments: x,y
+solution: (((x)[0]).title()) + (((y)[0]).title())
