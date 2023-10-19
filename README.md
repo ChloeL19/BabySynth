@@ -40,4 +40,7 @@ Results are here: https://github.com/ChloeL19/BabySynth/blob/main/string_samples
 
 #### Command for Test Case 4:
 
+# Limitations
+My code is not incredibly general; it is hard-coded in some sense to work with operations that expect a certain number of arguments.
+
 #### Command for Test Case 5:
