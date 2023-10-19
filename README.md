@@ -25,7 +25,7 @@ Results are here: https://github.com/ChloeL19/BabySynth/blob/main/integer_sample
 ## For the String DSL
 `python BabySynthString.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]`
 
-The target String DSL is a super simple subset of python string operations, i.e. [CONCAT, REVERSE, TITLE]. The DSL contains the following expressions and constants: [s1, s2, "", "a", "A"].
+The target String DSL is a super simple subset of python string operations, i.e. [CONCAT, GETFIRST (slice off the first letter of the string), TITLE (capitalize the first letter of the string)]. The DSL contains the following expressions and constants: [s1, s2, "", "a", "A"].
 
 Results are here: https://github.com/ChloeL19/BabySynth/blob/main/string_samples.txt
 
