@@ -19,8 +19,12 @@ Results are here: https://github.com/ChloeL19/BabySynth/blob/main/integer_sample
 `python BabySynthArith.py [1,1,2] [0,-5,0] [8,10789,16]`
 
 #### Command for Test Case 4:
+`python BabySynthArith.py [2,2,1] [4,2,2] [39,3,13]`
 
 #### Command for Test Case 5:
+`python BabySynthArith.py [9,3,12] [33,4,15] [27,54,63] [-3,4,3] [0,1,1]`
+
+Warning: This last one takes a very long time to run. Because I am not using any fancy heuristics for the search.
 
 ## For the String DSL
 `python BabySynthString.py [arg1, arg2, expected_answer] [arg1, arg2, expected_answer] [more input examples if necessary...]`
